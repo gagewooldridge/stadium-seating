@@ -1,8 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
+=======
+# Visual Studio 2012
+>>>>>>> parent of 5917b98... Revert "Stadium seating lab"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3333_WooldridgeG_Lab03", "3333_WooldridgeG_Lab03\3333_WooldridgeG_Lab03.csproj", "{C716CCF5-8967-4B28-A5AE-3F25BFF748D0}"
 EndProject
 Global
